@@ -36,10 +36,6 @@
 > 
 > 
 > # Build Options
-  
->  **step1 Enter the directory: /project/realtek_ameba1_va0_example/GCC-RELEAS**
->  **step2 execute the command:**
-> - 
 > | Command       |Usage          | Description  |
 > | ------------- |:-------------| :-----|
 > |all     | $ make all |Compile project to generate ram_all.bin |
