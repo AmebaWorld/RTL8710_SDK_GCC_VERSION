@@ -1,0 +1,17 @@
+site_name: RTLDUINO - open-source RTL8710AF WIFI SOLUTION
+repo_url: https://github.com/rtlduino/RTL8710_SDK_GCC_VERSION/
+theme_dir: docs/material
+
+pages:
+  - index.md
+  
+site_favicon: img/favicon.ico
+
+extra:
+  version: '1.0.0'
+  github:
+    download_release: true
+
+markdown_extensions:
+  - admonition
+  - codehilite(css_class=code)

@@ -1,6 +1,6 @@
 # **RTL8710_SDK_GCC_VERSION 1.0.0** #
 
-![logo_ex_new.png](docs/img/logo.png "logo")
+![logo_ex_new.png](img/logo.png "logo")
 
 [![Join the chat at https://gitter.im/iot-tech-now/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link](https://img.shields.io/gitter/room/badges/shields.svg)](https://gitter.im/iot-tech-now/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 [![Build Status](https://travis-ci.org/nodemcu/nodemcu-firmware.svg)](https://travis-ci.org/lvjh/RTL8710_SDK_GCC_VERSION)
