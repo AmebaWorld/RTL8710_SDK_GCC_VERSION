@@ -1,6 +1,18 @@
-site_name: RTLDUINO - open-source RTL8710AF WIFI SOLUTION
+site_name: RTLDUINO-IOT professional solutions.
 repo_url: https://github.com/rtlduino/RTL8710_SDK_GCC_VERSION/
 theme_dir: docs/material
+
+theme: readthedocs
+strict: true
+
+markdown_extensions:
+#http://pythonhosted.org/Markdown/extensions/admonition.html
+- admonition:
+- toc:
+    permalink: True
+
+#requird due to https://github.com/rtfd/readthedocs.org/issues/1313
+#see http://mkdocs.readthedocs.org/en/latest/user-guide/styling-your-docs/#customising-a-theme
 
 pages:
   - index.md
